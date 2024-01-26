@@ -1,3 +1,6 @@
 openai
+wikipedia
 langchain
 streamlit
+tiktoken
+chromadb
